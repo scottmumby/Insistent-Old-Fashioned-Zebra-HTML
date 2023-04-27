@@ -1,0 +1,525 @@
+.nav-bar-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.nav-bar-frame33 {
+  gap: 10px;
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.nav-bar-frame17 {
+  gap: 40px;
+  width: 389px;
+  display: flex;
+  padding: 6px 74px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: rgba(217, 217, 217, 1);
+}
+.nav-bar-frame29button {
+  gap: 10px;
+  width: 49px;
+  height: 49px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 49px;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(166, 166, 166, 1);
+}
+.nav-bar-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nav-bar-frame31button {
+  gap: 10px;
+  width: 63px;
+  height: 63px;
+  display: flex;
+  padding: 4px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 63px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(166, 166, 166, 1);
+}
+.nav-bar-text2 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.nav-bar-frame30button {
+  gap: 10px;
+  width: 49px;
+  height: 49px;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 49px;
+  justify-content: center;
+  background-color: rgba(166, 166, 166, 1);
+}
+.nav-bar-settingsgearicon2 {
+  width: 29px;
+  height: 29px;
+}
+.nav-bar-root-class-name {
+  height: var(--dl-size-size-medium);
+  margin-top: 0px;
+}
+.nav-bar-root-class-name1 {
+  height: var(--dl-size-size-small);
+  align-self: center;
+}
+.nav-bar-root-class-name2 {
+  flex: 1;
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: var(--dl-size-size-medium);
+  position: 0px;
+  align-self: flex-end;
+}
+.nav-bar-root-class-name3 {
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+}
+.nav-bar-root-class-name4 {
+  height: var(--dl-size-size-medium);
+  align-self: flex-end;
+}
+
+.temperature-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1f1f1f;
+}
+.temperature-temprature-page {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(31, 31, 31, 1);
+}
+.temperature-frame61 {
+  gap: -53px;
+  top: 519px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.temperature-text {
+  color: rgba(255, 255, 255, 1);
+  width: 144px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-text02 {
+  color: rgba(255, 255, 255, 1);
+  width: 144px;
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-frame60 {
+  gap: 10px;
+  top: 666px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.temperature-checkbox {
+  width: 40px;
+  height: 40px;
+}
+.temperature-text04 {
+  color: rgba(255, 255, 255, 1);
+  width: 274px;
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-frame52 {
+  gap: 2px;
+  top: 239px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.temperature-frame49 {
+  width: 165px;
+  height: 50px;
+  display: flex;
+  padding: 15px 58px 35px 58px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.temperature-text06 {
+  color: rgba(0, 0, 0, 1);
+  width: 49px;
+  height: auto;
+  font-size: 128px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 0%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-frame51 {
+  gap: -45px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.temperature-text07 {
+  color: rgba(255, 255, 255, 1);
+  width: 144px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-text09 {
+  color: rgba(255, 255, 255, 1);
+  width: 246px;
+  height: auto;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-frame50 {
+  gap: 0;
+  width: 165px;
+  height: 50px;
+  display: flex;
+  padding: 0 61px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.temperature-text11 {
+  color: rgba(0, 0, 0, 1);
+  width: 56px;
+  height: auto;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-container1 {
+  top: 105px;
+  left: 0px;
+  right: 0px;
+  width: 363px;
+  height: 109.7265625px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.temperature-frame59 {
+  gap: 42px;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  overflow-x: scroll;
+  align-items: center;
+  justify-content: flex-start;
+}
+.temperature-frame53 {
+  gap: 7px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.temperature-frame54 {
+  display: flex;
+  padding: 7px 6px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.temperature-kitcheng66f0f1c2319203 {
+  width: 80px;
+  height: 75px;
+  border-radius: 5px;
+}
+.temperature-text12 {
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-frame55 {
+  gap: 7px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.temperature-frame56 {
+  display: flex;
+  padding: 7px 6px;
+  align-items: center;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.temperature-livingroomgdcd9aa2ce19203 {
+  width: 78px;
+  height: 75px;
+  border-radius: 5px;
+}
+.temperature-text14 {
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-frame58 {
+  gap: 7px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.temperature-frame57 {
+  display: flex;
+  padding: 7px 6px;
+  align-items: center;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.temperature-bed183918319203 {
+  width: 76px;
+  height: 75px;
+  border-radius: 5px;
+}
+.temperature-text16 {
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-frame581 {
+  gap: 7px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.temperature-frame571 {
+  display: flex;
+  padding: 7px 6px;
+  align-items: center;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.temperature-bed1839183192031 {
+  width: 76px;
+  height: 75px;
+  border-radius: 5px;
+}
+.temperature-text18 {
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-frame48 {
+  gap: 43px;
+  top: 35px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  padding: 2px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.temperature-navlink {
+  display: contents;
+}
+.temperature-frame35 {
+  gap: 10px;
+  display: flex;
+  padding: 7px 3px;
+  box-shadow: 2px 4px 4px 0px rgba(0, 0, 0, 0.49000000953674316) ;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(31, 31, 31, 1);
+}
+.temperature-text20 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-text22 {
+  color: rgba(255, 255, 255, 1);
+  width: 151px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-text24 {
+  color: rgba(255, 255, 255, 1);
+  width: 71px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.temperature-text25 {
+  color: rgba(255, 255, 255, 1);
+}
+.temperature-text26 {
+  color: rgba(255, 49, 46, 1);
+}
